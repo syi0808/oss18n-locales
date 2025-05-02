@@ -1,6 +1,7 @@
 {
-  "test": "test",
+  "test": "namespace_한국어",
   "test_nested": {
-    "nested": "nested"
-  }
+    "nested": "namespace_한국어_중첩"
+  },
+  "test.not_nested": "namespace_한국어_중접_아님"
 }
