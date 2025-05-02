@@ -1,6 +1,7 @@
 {
-  "test": "test",
+  "test": "translation_eng",
   "test_nested": {
-    "nested": "nested"
-  }
+    "nested": "translation_eng_nested"
+  },
+  "test.not_nested": "translation_eng_not_nested"
 }
