@@ -1,6 +1,7 @@
 {
-  "test": "test",
+  "test": "translation_한국어",
   "test_nested": {
-    "nested": "nested"
-  }
+    "nested": "translation_한국어_중첩"
+  },
+  "test.not_nested": "translation_한국어_중접_아님"
 }
